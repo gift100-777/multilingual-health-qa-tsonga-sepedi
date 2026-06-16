@@ -27,4 +27,5 @@ Early-stage development. Project planning, dataset preparation, and model design
 This project is inspired by participation in the Zindi Multilingual Health Question Answering in Low-Resource African Languages Challenge.
 
 ## Author
-Karabo Lethe
+Gift Chauke
+
